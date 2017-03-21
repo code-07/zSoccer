@@ -1,0 +1,75 @@
+/*
+Theme Name: zSoccer Theme
+Theme URI : http://www.zSoccer.com
+Author: MD.ABU TAHER
+Author URI: abutaherz.com
+Version: 1.0
+Tags: HTML, CSS
+Description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, maiores. Tenetur modi alias, ad consectetur, ipsum consequatur nemo praesentium, officia distinctio odit eveniet deserunt corporis cupiditate at eos et minima.
+
+*/
+.pagination {
+	background-color: transparent;
+	border: none;
+}
+.pagination a {
+	background-color: #392E2B;
+	color: #fff;
+	padding: 5px;	
+}
+.pagination a:hover {
+	background-color: #FFCD02;
+}
+.pagination .current {
+	background-color: #FFCD02;
+	color: #fff;
+	padding: 5px;
+}
+.comment-meta {
+	margin-left: 20px;
+	margin-top: 20px;
+    background: no-repeat;
+    color: #666;
+    padding: 50px 0 20px;
+}
+.fn {
+	padding-left: 15px;
+}
+.comment-metadata {
+	padding-left: 70px;
+}
+.comment-content {
+	padding-left: 85px;
+}
+.comment-meta img {
+	width: 50px;
+	height: 50px;
+}
+.children {
+	margin-left: 70px;
+}
+.respond form p input {
+	padding: 10px;
+}
+form p input {
+    margin-right: 10px;
+    padding: 10px;
+}
+form p textarea {
+	width: 80%;
+}
+.reply {
+	margin: 20px;
+}
+.search-submit {
+	display: none;
+}
+footer .col-footer-3 img {
+    margin-bottom: 0px;
+}
+#sidebar .wrap-sidebar {
+    margin: 0px 0px;
+}
+.content-box.box-style-2 {
+    background-size: cover;
+}
